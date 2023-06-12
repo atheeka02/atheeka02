@@ -18,6 +18,11 @@ const atheekaHaleem = {
 }
 ```   
 
+<!-- <div align="center">
+ <a href="https://www.linkedin.com/in/johnatkinson2020/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://open.spotify.com/user/leprol?si=e92d2af35ef3452c" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
+</div> -->
+   
 #   
 <div align="center">
  <h3 align="left">🛠️More Languages and Tools:</h3>
@@ -27,9 +32,9 @@ const atheekaHaleem = {
 #
 <div align="center">
  <h3 align="left">Stats:</h3>
- <a href="https://github.com/atheeka02">
+<!-- <a href="https://github.com/atheeka02">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheeka02&layout=compact&langs_count=7&theme=dark" alt="atheeka02"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=atheeka02&show_icons=true&theme=dark" alt="atheeka02"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=atheeka02&show_icons=true&theme=dark" alt="atheeka02"/> -->
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atheeka02&theme=dark" alt="atheeka02" />
   <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atheeka02&theme=dark" alt="atheeka02"/>
  </a>
